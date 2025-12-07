@@ -26,3 +26,7 @@ The chart below illustrates the quarterly performance trend against the target.
 ## Verification
 - **Calculated Average:** 6.12
 - **Author:** 24f2004315@ds.study.iitm.ac.in
+
+## Tools Used
+- **AI Assistant:** Jules (ChatGPT Codex)
+- **Task URL:** https://chatgpt.com/codex/tasks
